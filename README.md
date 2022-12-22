@@ -13,8 +13,6 @@
 ## Languages
 <img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=for-the-badge&logo=python&logoColor=black"/> <img  
 
-<img alt="HTML" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black"/> <img alt="CSS" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black"/>
-
 ## IDEs
 <img alt="IntelliJ"  width="100px" height="30px" align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-ee0000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/> <img alt="VSC" width="100px" height="30px" align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
 
